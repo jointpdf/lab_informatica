@@ -159,6 +159,7 @@ int main() {
 }
 
 //CORREZIONI / MIGLIORIE:
-//1 La funzione print() andrebbe suddivisa due sottofunzioni una che arrotonda e garantisce la consistenza della somma S+I+R = N e una che stampa i risultati cercando di renderla più legginile
+//1 La funzione print() andrebbe suddivisa due sottofunzioni una che arrotonda e garantisce la consistenza della somma S+I+R = N e una che stampa i risultati
 //2 Nella funzione check() invece di usare un generico "runtime_error" sarebbe più efficiente definire un errore specifico
 //3 Il codice manca di commenti adeguati e necessita di migliorare la leggibilità in generale
+//4 se il codice non dovesse compilare aggiungere provare ad aggiungere una libreria specifica per typerid()
